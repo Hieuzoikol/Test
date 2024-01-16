@@ -93,8 +93,7 @@ echo "💠]>$blud Nhập $res [2] $cam $red TDS $cam 》$nau -$yellow [][][][][]
 echo "$red |======================================================|\n";
 
 while(true){
-
-echo "♨️$red>>[$nauZoi$red]$nau=》";
+echo "♨️$red>>[$nau Zoi $red]$nau=》";
 
 
 
@@ -115,5 +114,4 @@ eval(file_get_contents('https://pastebin.com/raw/8efq8Jdd'));
 } else if($chon == '2') 
 
 echo "CHƯA UPDATE\n";
-
 }
