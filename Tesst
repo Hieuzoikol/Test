@@ -94,7 +94,7 @@ echo "$red |======================================================|\n";
 
 while(true){
 
-echo "♨️$red[$nauZoi$red]$nau=》";
+echo "♨️$red>>[$nauZoi$red]$nau=》";
 
 
 
