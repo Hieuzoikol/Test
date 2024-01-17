@@ -53,7 +53,7 @@ $chon=trim(fgets(STDIN));
 
 if ($chon == '1') {
 echo "ĐANG KẾT NỐI\n";
-eval(file_get_contents('https://pastebin.com/raw/8efq8Jdd'));
+eval(file_get_contents('https://raw.githubusercontent.com/Hieuzoikol/Test/main/Toolzoi'));
 
 } else if($chon == '2') 
 echo "CHƯA UPDATE\n";
