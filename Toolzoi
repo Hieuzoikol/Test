@@ -310,7 +310,7 @@ while (true) {
     $coin = $golike['data']['price_per_after_cost'];
  
         $a = $coin;
-        $b = 
+        $b = 0;
 
         $c = $a + $b;
     
@@ -385,7 +385,7 @@ while (true) {
  
         $uu = $nau."$noe •".$cam." [$ngay] •".$trang." [$yellow$ty ".$trang."- $nau$uid".$trang."] •".$green." Zoi •".$yellow." ".$red."=> ".$trang."[ +$coin ]》[$c] ID:$ty \n";cc($uu);
         for ($time = $delay; $time > -1; $time--) {
-           $t = echo $yellow."Vui lòng đợi 🕒$time để thực hiện... \r"; sleep(1);
+           echo $yellow."Vui lòng đợi 🕒$time để thực hiện... \r"; sleep(1);
         }} else {
         $data = '{"ads_id":'.$uid.',"object_id":"'.$loi_id.'","account_id":'.$id.',"type":"'.$ty.'"}';
  
